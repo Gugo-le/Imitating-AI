@@ -7,3 +7,6 @@
 Diffusion 모델은 이미지 생성하는 딥러닝 모델이다.
 
 - <h3>하지만 음성의 파형도 잘 보면 이미지로 인식 할 수 있다.</h3>
+
+[https://r9y9.github.io/projects/nnsvs/](https://r9y9.github.io/projects/nnsvs/)
+ 
